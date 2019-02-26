@@ -35,4 +35,5 @@ In the Compare sheet you can compare the ROI of two trades by:
 ## Disclaimer
 * Nadex is a trademark of the Nadex.com exchange.
 * None of the information here is approved or supported in any way by the Nadex.com exchange.
-* This information is shared to the best of the author's knowledge and is distributed "AS IS" without warranties of any kind, either express or implied. The author is not a financial advisor and cannot be held responsible for any trading losses or other damages incurred as a result of using any information gathered through this website.
+* The information in this repository is for educational purposes only and should not be considered an offer or solicitation to buy or sell any financial instrument on Nadex or elsewhere.
+* The information in this repository is shared to the best of the author's knowledge and is distributed "AS IS" without warranties of any kind, either express or implied. The author is not a financial advisor and cannot be held responsible for any trading losses or other damages incurred as a result of using any information gathered through this website.
