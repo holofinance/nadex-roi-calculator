@@ -1,5 +1,5 @@
 # Nadex ROI Calculator
-ROI Calculator for Nadex orders: https://docs.google.com/spreadsheets/d/1ICAVhjvYxdl7GOB5we2qkhbwuMmdd3Bbu9_vOt243Os/edit#gid=496834221
+ROI Calculator for Nadex Binary orders: https://docs.google.com/spreadsheets/d/1ICAVhjvYxdl7GOB5we2qkhbwuMmdd3Bbu9_vOt243Os/edit#gid=496834221
 
 ## Definitions
 Nadex takes $1 commission to open a position. If the position wins, Nadex takes another $1 commission. If it loses no commission is taken.
